@@ -3,8 +3,8 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 ## Links
 
-- [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
-- [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
+- [Webpage](https://SierraK.github.io/working-with-markdown/ "Working With Markdown Webpage")
+- [Source](https://github.com/SierraK/working-with-markdown "Working With Markdown Source")
 
 ## Getting Started
 
@@ -55,7 +55,7 @@ For an unordered list, preface each item with a dash and space as shown above.
 Code should be fenced using three backtics ` on the line above and the line below your code. 
 After the opening backtics, put the syntax type, e.g. JavaScript or DOS (for Windows terminal commands) or Bash (for Git Bash commands). 
 
-```DOS
+```PowerShell
 dir
 ```
 
@@ -90,10 +90,16 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Sierra King
 
-dcase@nwmissouri.edu
+S529039@nwmissouri.edu
 
-## New Section 
+## New Section
 
+### Examples
+[Tervuren Dog](https://en.wikipedia.org/wiki/Tervuren_dog)
 
+- Shepard
+- Husky
+
+![Belgian Tervuren Shepard](https://upload.wikimedia.org/wikipedia/commons/c/c5/Himbis_Happy_Hana.jpg)
